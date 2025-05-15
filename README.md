@@ -1,2 +1,3 @@
-# SainathSanchiWedding
-Wedding Invitation
+# AkkisWedding
+WeddingInvite
+created by Akshay Deshmukh
